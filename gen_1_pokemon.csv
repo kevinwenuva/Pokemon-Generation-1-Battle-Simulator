@@ -1,0 +1,81 @@
+﻿Nat,Pokemon,HP,Atk,Def,Spc,Spe,Type I,Type II,Move 1,Move 2,Move 3,Move 4
+3,Venusaur,80,82,83,100,80,Grass,Poison,Razor Leaf,Sleep Powder,Swords Dance,Body Slam
+6,Charizard,78,84,78,85,100,Fire,Flying,Fire Blast,Earthquake,Swords Dance,Body Slam
+9,Blastoise,79,83,100,85,78,Water,,Surf,Body Slam,Blizzard,Mimic
+12,Butterfree,60,45,50,80,70,Bug,Flying,Psychic,Mega Drain,Sleep Powder,Stun Spore
+15,Beedrill,65,80,40,45,75,Bug,Poison,Twineedle,Hyper Beam,Swords Dance,Agility
+18,Pidgeot,83,80,75,70,91,Normal,Flying,Double-Edge,Hyper Beam,Agility,Mirror Move
+20,Raticate,55,81,60,50,97,Normal,,Super Fang,Body Slam,Bubble Beam,Hyper Beam
+22,Fearow,65,90,65,61,100,Normal,Flying,Drill Peck,Double-Edge,Hyper Beam,Mirror Move
+24,Arbok,60,85,69,65,80,Poison,,Earthquake,Wrap,Glare,Hyper Beam
+26,Raichu,60,90,55,90,100,Electric,,Thunderbolt,Thunder Wave,Surf,Body Slam
+28,Sandslash,75,100,110,55,65,Ground,,Earthquake,Swords Dance,Hyper Beam,Rock Slide
+31,Nidoqueen,90,82,87,75,76,Poison,Ground,Earthquake,Blizzard,Body Slam,Thunderbolt
+34,Nidoking,81,92,77,75,85,Poison,Ground,Earthquake,Blizzard,Body Slam,Thunderbolt
+36,Clefable,95,70,73,85,60,Normal,,Blizzard,Body Slam,Hyper Beam,Thunderbolt
+38,Ninetales,73,76,75,100,100,Fire,,Fire Blast,Reflect,Fire Spin,Body Slam
+40,Wigglytuff,140,70,45,50,45,Normal,Thunder Wave,Double-Edge,Hyper Beam,Blizzard
+42,Golbat,75,80,70,75,90,Poison,Flying,Screech,Double-Edge,Hyper Beam,Mega Drain
+45,Vileplume,75,80,85,100,50,Grass,Poison,Sleep Powder,Swords Dance,Body Slam,Mega Drain
+47,Parasect,60,95,80,80,30,Bug,Grass,Spore,Mega Drain,Swords Dance,Body Slam
+49,Venomoth,70,65,60,90,90,Bug,Poison,Psychic,Mega Drain,Sleep Powder,Stun Spore
+51,Dugtrio,35,80,50,70,120,Ground,,Earthquake,Slash,Sand Attack,Mimic
+53,Persian,65,70,60,65,115,Normal,,Slash,Bubble Beam,Hyper Beam,Thunderbolt
+55,Golduck,80,82,78,80,85,Water,,Amnesia,Blizzard,Surf,Body Slam
+57,Primeape,65,105,60,60,95,Fighting,,Submission,Rock Slide,Body Slam,Hyper Beam
+59,Arcanine,90,110,80,80,95,Fire,,Fire Blast,Body Slam,Reflect,Hyper Beam
+62,Poliwrath,90,85,95,70,70,Water,Fighting,Amnesia,Surf,Submission,Blizzard
+65,Alakazam,55,50,45,135,120,Psychic,,Thunder Wave,Psychic,Reflect,Recover
+68,Machamp,90,130,80,65,55,Fighting,,Body Slam,Earthquake,Submission,Hyper Beam
+71,Victreebel,80,105,65,100,70,Grass,Poison,Swords Dance,Razor Leaf,Sleep Powder,Hyper Beam
+73,Tentacruel,80,70,65,120,100,Water,Poison,Swords Dance,Wrap,Hydro Pump,Hyper Beam
+76,Golem,80,120,130,55,45,Rock,Ground,Rock Slide,Earthquake,Body Slam,Explosion
+78,Rapidash,65,100,70,80,105,Fire,,Fire Blast,Agility,Body Slam,Fire Spin
+80,Slowbro,95,75,110,80,30,Water,Psychic,Amnesia,Surf,Body Slam,Rest
+82,Magneton,50,60,95,120,70,Electric,,Thunderbolt,Thunder Wave,Double-Edge,Mimic
+83,Farfetch'd,52,65,55,58,60,Normal,Flying,Drill Peck,Body Slam,Slash,Toxic
+85,Dodrio,60,110,70,60,100,Normal,Flying,Drill Peck,Body Slam,Hyper Beam,Mimic
+87,Dewgong,90,70,80,95,70,Water,Ice,Surf,Blizzard,Body Slam,Mimic
+89,Muk,105,105,75,65,50,Poison,,Sludge,Body Slam,Screech,Explosion
+91,Cloyster,50,90,180,85,70,Water,Ice,Clamp,Explosion,Surf,Blizzard
+94,Gengar,60,65,60,130,110,Ghost,Poison,Hypnosis,Explosion,Thunderbolt,Mega Drain
+95,Onix,35,45,160,70,30,Rock,Ground,Earthquake,Rock Slide,Explosion,Bind
+97,Hypno,85,73,70,115,67,Psychic,,Psychic,Thunder Wave,Hypnosis,Rest
+99,Kingler,55,130,115,50,75,Water,,Body Slam,Hyper Beam,Crabhammer,Swords Dance
+101,Electrode,60,50,70,80,140,Electric,,Screech,Thunderbolt,Explosion,Thunder Wave
+103,Exeggutor,95,95,85,125,55,Grass,Psychic,Sleep Powder,Mega Drain,Explosion,Psychic
+105,Marowak,60,80,110,50,45,Ground,,Earthquake,Blizzard,Body Slam,Seismic Toss
+106,Hitmonlee,50,120,53,35,87,Fighting,,High Jump Kick,Body Slam,Agility,Seismic Toss
+107,Hitmonchan,50,105,79,35,76,Fighting,,Body Slam,Submission,Seismic Toss,Meditate
+108,Lickitung,90,55,75,60,30,Normal,,Swords Dance,Earthquake,Body Slam,Hyper Beam
+110,Weezing,65,90,120,85,60,Poison,,Sludge,Explosion,Thunderbolt,Fire Blast
+112,Rhydon,105,130,120,45,40,Rock,Ground,Earthquake,Body Slam,Rock Slide,Hyper Beam
+113,Chansey,250,5,5,105,50,Normal,,Ice Beam,Soft-Boiled,Thunder Wave,Thunderbolt
+114,Tangela,65,55,115,100,60,Grass,,Sleep Powder,Mega Drain,Stun Spore,Growth
+115,Kangaskhan,105,95,80,40,90,Normal,,Body Slam,Earthquake,Hyper Beam,Surf
+117,Seadra,55,65,95,95,85,Water,,Hydro Pump,Blizzard,Smokescreen,Mimic
+119,Seaking,80,92,65,65,80,68,Water,,Surf,Blizzard,Double-Edge,Hyper Beam
+121,Starmie,60,75,85,100,115,Water,Psychic,Recover,Blizzard,Thunderbolt,Thunder Wave
+122,Mr. Mime,40,45,65,100,90,Psychic,,Psychic,Thunder Wave,Thunderbolt,Seismic Toss
+123,Scyther,70,110,80,55,105,Bug,Flying,Swords Dance,Agility,Slash,Hyper Beam
+124,Jynx,65,50,35,95,95,Psychic,Ice,Lovely Kiss,Blizzard,Psychic,Mimic
+125,Electabuzz,65,83,57,85,105,Electric,,Thunderbolt,Thunder Wave,Seismic Toss,Psychic
+126,Magmar,65,95,57,85,93,Fire,,Fire Blast,Body Slam,Hyper Beam,Mimic
+127,Pinsir,65,125,100,55,85,Bug,,Swords Dance,Hyper Beam,Body Slam,Submission
+128,Tauros,75,100,95,70,110,Normal,,Body Slam,Hyper Beam,Earthquake,Blizzard
+130,Gyarados,95,125,79,100,81,Water,Flying,Blizzard,Thunderbolt,Hyper Beam,Body Slam
+131,Lapras,130,85,80,95,60,Water,Ice,Blizzard,Thunderbolt,Body Slam,Rest
+134,Vaporeon,130,65,60,110,65,Water,,Surf,Blizzard,Body Slam,Mimic
+135,Jolteon,65,65,60,110,130,Electric,,Thunderbolt,Thunder Wave,Pin Missile,Double Kick
+136,Flareon,65,130,60,110,65,Fire,,Fire Blast,Hyper Beam,Body Slam,Quick Attack
+137,Porygon,65,60,70,75,40,Normal,,Sharpen,Hyper Beam,Thunder Wave,Recover
+139,Omastar,70,60,125,115,55,Rock,Water,Hydro Pump,Blizzard,Seismic Toss,Mimic
+141,Kabutops,60,115,105,70,80,Rock,Water,Swords Dance,Surf,Body Slam,Hyper Beam
+142,Aerodactyl,80,105,65,60,130,Rock,Flying,Sky Attack,Reflect,Double-Edge,Hyper Beam
+143,Snorlax,160,110,65,65,30,Normal,,Body Slam,Hyper Beam,Earthquake,Self-Destruct
+144,Articuno,90,85,100,125,85,Ice,Flying,Blizzard,Agility,Double-Edge,Hyper Beam
+145,Zapdos,90,90,85,125,100,Electric,Flying,Thunderbolt,Drill Peck,Thunder Wave,Agility
+146,Moltres,90,100,90,125,90,Fire,Flying,Agility,Fire Blast,Hyper Beam,Fire Spin
+149,Dragonite,91,134,95,100,80,Dragon,Flying,Wrap,Agility,Hyper Beam,Blizzard
+150,Mewtwo,106,110,90,154,130,Psychic,,Psychic,Amnesia,Reflect,Rest
+151,Mew,100,100,100,100,100,Psychic,,Swords Dance,Earthquake,Hyper Beam,Soft-Boiled
